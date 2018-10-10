@@ -21,4 +21,4 @@ ASCII KEYS
         //      u = 117      upper label
         //      l = 108      lower label
         //      + = 43       increment image no for file writing
-        //        <ESC> = 27      exit program# devops
+        //        <ESC> = 27      exit program
